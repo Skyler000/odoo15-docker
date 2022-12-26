@@ -1,0 +1,6 @@
+postgresql/
+etc/odoo-server.log
+etc/addons/
+etc/sessions/
+etc/filestore/
+#https://github.com/minhng92/odoo-15-docker-compose
